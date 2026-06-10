@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "name": "Адамбаев Мади",
+    "img": "img/works/Madi/madi1.jpg",
+    "photos": [
+      "/img/works/Madi/photo_1.jpg",
+      "/img/works/Madi/photo_2.jpg",
+      "/img/works/Madi/photo_3.jpg",
+      "/img/works/Madi/photo_4.jpg",
+      "/img/works/Madi/photo_5.jpg",
+      "/img/works/Madi/photo_6.jpg",
+      "/img/works/Madi/photo_7.jpg",
+      "/img/works/Madi/photo_8.jpg",
+      "/img/works/Madi/photo_9.jpg",
+      "/img/works/Madi/photo_10.jpg",
+      "/img/works/Madi/photo_11.jpg",
+      "/img/works/Madi/photo_12.jpg",
+      "/img/works/Madi/photo_13.jpg",
+      "/img/works/Madi/photo_14.jpg"
+    ],
+    "works": [
+      "Брошюраларға дизайннын даярлау",
+      "Көпбетті брошюраның дизайнын даярлау",
+      "Туристтік карта брошюрасын даярлау",
+      "Туристтік кітапша даярлау",
+      "Кітапша брошюраның дизайнын даярлау",
+      "Визиткалар даярлау",
+      "Клиенттермен сөйлесу",
+      "Туристтік каталогтарға макет жасау",
+      "Графикалық элементтерді реттеу және өңдеу",
+      "Полиграфияға файлдарды дайындау",
+      "Жобаларды архивтеу және жүйелеу"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Нурмағанбет Аян",
+    "img": "/img/student/Ayn.jpg",
+    "photos": [
+      "/img/works/Ayn/photo_1.jpg",
+      "/img/works/Ayn/photo_2.jpg",
+      "/img/works/Ayn/photo_3.jpg",
+      "/img/works/Ayn/photo_4.jpg",
+      "/img/works/Ayn/photo_5.jpg",
+      "/img/works/Ayn/photo_6.jpg",
+      "/img/works/Ayn/photo_7.jpg",
+      "/img/works/Ayn/photo_8.jpg",
+      "/img/works/Ayn/photo_9.jpg",
+      "/img/works/Ayn/photo_10.jpg",
+      "/img/works/Ayn/photo_11.jpg",
+      "/img/works/Ayn/photo_12.jpg",
+      "/img/works/Ayn/photo_13.jpg"
+    ],
+    "works": [
+      "Брошюраларға дизайннын даярлау",
+      "Көпбетті брошюраның дизайнын даярлау",
+      "Кітапша брошюраның дизайнын даярлау",
+      "Карта даярлау",
+      "Баннерлер даярлау",
+      "Визиткалар даярлау",
+      "Клиенттермен сөйлесу",
+      "Постерлер және сыртқы жарнама макеттерін жасау",
+      "Фирмалық стиль элементтерін реттеу",
+      "Фото материалдарды өңдеу",
+      "Типографияға дайын макеттерді жіберу"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Нурсултан Куаныш",
+    "img": "/img/student/Kuanysh.jpg",
+    "photos": [
+      "/img/works/Kuanysh/photo_1.jpg",
+      "/img/works/Kuanysh/photo_2.jpg",
+      "/img/works/Kuanysh/photo_3.jpg",
+      "/img/works/Kuanysh/photo_4.jpg",
+      "/img/works/Kuanysh/photo_5.jpg",
+      "/img/works/Kuanysh/photo_6.jpg",
+      "/img/works/Kuanysh/photo_7.jpg",
+      "/img/works/Kuanysh/photo_8.jpg",
+      "/img/works/Kuanysh/photo_9.jpg"
+    ],
+    "works": [
+      "Брошюраларға дизайннын даярлау",
+      "Көпбетті брошюраның дизайнын даярлау",
+      "Кітапша брошюраның дизайнын даярлау",
+      "Визиткалар даярлау",
+      "Клиенттермен сөйлесу",
+      "Брошюраларды шығару (распечатка)",
+      "Принтер және ламинаторда жұмыс жасау",
+      "Полиграфиялық материалдарды кесу және дайындау",
+      "Графикалық шаблондармен жұмыс",
+      "Офистік құжаттарды беттеу"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Шерхан Нурназ",
+    "img": "/img/student/Nurnaz.png",
+    "photos": [
+      "/img/works/Nurnaz/photo_1.jpg",
+      "/img/works/Nurnaz/photo_2.jpg",
+      "/img/works/Nurnaz/photo_3.jpg",
+      "/img/works/Nurnaz/photo_4.jpg",
+      "/img/works/Nurnaz/photo_5.jpg",
+      "/img/works/Nurnaz/photo_6.jpg",
+      "/img/works/Nurnaz/photo_7.jpg",
+      "/img/works/Nurnaz/photo_8.jpg",
+      "/img/works/Nurnaz/photo_9.jpg",
+      "/img/works/Nurnaz/photo_10.jpg",
+      "/img/works/Nurnaz/photo_11.jpg",
+      "/img/works/Nurnaz/photo_12.jpg",
+      "/img/works/Nurnaz/photo_13.jpg"
+    ],
+    "works": [
+      "Брошюраларға дизайннын даярлау",
+      "Көпбетті брошюраның дизайнын даярлау",
+      "Кітапша брошюраның дизайнын даярлау",
+      "Визиткалар даярлау",
+      "Клиенттермен сөйлесу",
+      "Adobe Photoshop-та беттеу жұмыстарын жасау",
+      "Кітапшалар даярлау",
+      ".pdf-те экспорттау",
+      "Сайт баннерлері мен визуалдарын дайындау",
+      "Туристтік бағыттарға инфографика жасау",
+      "Графикалық файлдарды оптимизациялау",
+      "Тапсырмаларды жоспарлау және уақытқа басқару"
+    ]
+  }
+]
