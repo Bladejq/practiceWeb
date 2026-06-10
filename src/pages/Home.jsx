@@ -3,13 +3,23 @@ import { useNavigate } from "react-router-dom";
 import { motion, useInView, AnimatePresence } from "framer-motion";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, Autoplay } from "swiper/modules";
-import { 
-  BsPrinter, BsFileText, BsPalette, BsPencilSquare, 
-  BsBook, BsImage, BsTag, BsGraphUp, BsArrowRight, 
-  BsChevronDown, BsBuilding, BsCalendar3, BsCodeSquare,
-  BsBrush, BsRulers, BsCreditCard, BsJournalBookmark,
-  BsDisplay, BsCamera, BsGithub, BsGlobe, BsPlayCircle,
-  BsStarFill, BsQuote
+import {
+  BsPrinter,
+  BsBook,
+  BsGraphUp,
+  BsArrowRight,
+  BsChevronDown,
+  BsBuilding,
+  BsCodeSquare,
+  BsBrush,
+  BsRulers,
+  BsCreditCard,
+  BsJournalBookmark,
+  BsDisplay,
+  BsGlobe,
+  BsPlayCircle,
+  BsStarFill,
+  BsQuote
 } from "react-icons/bs";
 
 import "swiper/css";
