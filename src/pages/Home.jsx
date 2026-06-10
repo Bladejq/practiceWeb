@@ -19,7 +19,8 @@ import {
   BsGlobe,
   BsPlayCircle,
   BsStarFill,
-  BsQuote
+  BsQuote,
+  BsCamera
 } from "react-icons/bs";
 
 import "swiper/css";
